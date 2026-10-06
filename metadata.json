@@ -1,0 +1,6 @@
+{
+  "name": "HERSCAN AI - Women's Health Early-Risk Screening",
+  "description": "Non-invasive early-risk biomarker screening and predictive insights platform with ESP32-S3 biosensor array telemetry and clinician handoff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
